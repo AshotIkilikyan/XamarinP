@@ -1,0 +1,11 @@
+C:\Users\Ashot Ikilikyan\Desktop\QBSIssueTracker\QBS Issue Tracker\QBS Issue Tracker\QBS Issue Tracker\bin\Debug\netstandard2.0\QBS Issue Tracker.deps.json
+C:\Users\Ashot Ikilikyan\Desktop\QBSIssueTracker\QBS Issue Tracker\QBS Issue Tracker\QBS Issue Tracker\bin\Debug\netstandard2.0\QBS Issue Tracker.dll
+C:\Users\Ashot Ikilikyan\Desktop\QBSIssueTracker\QBS Issue Tracker\QBS Issue Tracker\QBS Issue Tracker\bin\Debug\netstandard2.0\QBS Issue Tracker.pdb
+C:\Users\Ashot Ikilikyan\Desktop\QBSIssueTracker\QBS Issue Tracker\QBS Issue Tracker\QBS Issue Tracker\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Ashot Ikilikyan\Desktop\QBSIssueTracker\QBS Issue Tracker\QBS Issue Tracker\QBS Issue Tracker\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Ashot Ikilikyan\Desktop\QBSIssueTracker\QBS Issue Tracker\QBS Issue Tracker\QBS Issue Tracker\obj\Debug\netstandard2.0\QBS Issue Tracker.csproj.CoreCompileInputs.cache
+C:\Users\Ashot Ikilikyan\Desktop\QBSIssueTracker\QBS Issue Tracker\QBS Issue Tracker\QBS Issue Tracker\obj\Debug\netstandard2.0\QBS Issue Tracker.AssemblyInfoInputs.cache
+C:\Users\Ashot Ikilikyan\Desktop\QBSIssueTracker\QBS Issue Tracker\QBS Issue Tracker\QBS Issue Tracker\obj\Debug\netstandard2.0\QBS Issue Tracker.AssemblyInfo.cs
+C:\Users\Ashot Ikilikyan\Desktop\QBSIssueTracker\QBS Issue Tracker\QBS Issue Tracker\QBS Issue Tracker\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Ashot Ikilikyan\Desktop\QBSIssueTracker\QBS Issue Tracker\QBS Issue Tracker\QBS Issue Tracker\obj\Debug\netstandard2.0\QBS Issue Tracker.dll
+C:\Users\Ashot Ikilikyan\Desktop\QBSIssueTracker\QBS Issue Tracker\QBS Issue Tracker\QBS Issue Tracker\obj\Debug\netstandard2.0\QBS Issue Tracker.pdb

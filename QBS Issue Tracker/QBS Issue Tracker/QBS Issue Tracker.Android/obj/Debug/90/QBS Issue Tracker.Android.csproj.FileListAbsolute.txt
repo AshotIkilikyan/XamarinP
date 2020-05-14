@@ -1,0 +1,35 @@
+C:\Users\Ashot Ikilikyan\Desktop\QBSIssueTracker\QBS Issue Tracker\QBS Issue Tracker\QBS Issue Tracker.Android\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+C:\Users\Ashot Ikilikyan\Desktop\QBSIssueTracker\QBS Issue Tracker\QBS Issue Tracker\QBS Issue Tracker.Android\obj\Debug\90\build.props
+C:\Users\Ashot Ikilikyan\Desktop\QBSIssueTracker\QBS Issue Tracker\QBS Issue Tracker\QBS Issue Tracker.Android\obj\Debug\90\adb.props
+C:\Users\Ashot Ikilikyan\Desktop\QBSIssueTracker\QBS Issue Tracker\QBS Issue Tracker\QBS Issue Tracker.Android\obj\Debug\90\QBS Issue Tracker.Android.csprojAssemblyReference.cache
+C:\Users\Ashot Ikilikyan\Desktop\QBSIssueTracker\QBS Issue Tracker\QBS Issue Tracker\QBS Issue Tracker.Android\obj\Debug\90\stamp\_BuildLibraryImportsCache.stamp
+C:\Users\Ashot Ikilikyan\Desktop\QBSIssueTracker\QBS Issue Tracker\QBS Issue Tracker\QBS Issue Tracker.Android\obj\Debug\90\resourcepaths.cache
+C:\Users\Ashot Ikilikyan\Desktop\QBSIssueTracker\QBS Issue Tracker\QBS Issue Tracker\QBS Issue Tracker.Android\obj\Debug\90\res.flag
+C:\Users\Ashot Ikilikyan\Desktop\QBSIssueTracker\QBS Issue Tracker\QBS Issue Tracker\QBS Issue Tracker.Android\obj\Debug\90\flata\4985060697a326fe74c2d65f2b19212b309d5752.stamp
+C:\Users\Ashot Ikilikyan\Desktop\QBSIssueTracker\QBS Issue Tracker\QBS Issue Tracker\QBS Issue Tracker.Android\obj\Debug\90\flata\2a05049bfdc594da04de7f6230e81d78f23ec9a1.stamp
+C:\Users\Ashot Ikilikyan\Desktop\QBSIssueTracker\QBS Issue Tracker\QBS Issue Tracker\QBS Issue Tracker.Android\obj\Debug\90\flata\67fbbcb54867d9a042c924dd8b07b8978338ce14.stamp
+C:\Users\Ashot Ikilikyan\Desktop\QBSIssueTracker\QBS Issue Tracker\QBS Issue Tracker\QBS Issue Tracker.Android\obj\Debug\90\flata\c04a0a18302070ca564e1cc88b2ec52c6afd38e5.stamp
+C:\Users\Ashot Ikilikyan\Desktop\QBSIssueTracker\QBS Issue Tracker\QBS Issue Tracker\QBS Issue Tracker.Android\obj\Debug\90\flata\3ce6304278ff31d2accf1ae2e7b7c2c981617d7c.stamp
+C:\Users\Ashot Ikilikyan\Desktop\QBSIssueTracker\QBS Issue Tracker\QBS Issue Tracker\QBS Issue Tracker.Android\obj\Debug\90\flata\c9b2e99827f64c5099c7654b593b06f7c583051a.stamp
+C:\Users\Ashot Ikilikyan\Desktop\QBSIssueTracker\QBS Issue Tracker\QBS Issue Tracker\QBS Issue Tracker.Android\obj\Debug\90\flata\829383b38d5ed4d4c91b0f45597a151b5327151b.stamp
+C:\Users\Ashot Ikilikyan\Desktop\QBSIssueTracker\QBS Issue Tracker\QBS Issue Tracker\QBS Issue Tracker.Android\obj\Debug\90\flata\cb3188106b7170568973b154fd1ba05d8fb6e387.stamp
+C:\Users\Ashot Ikilikyan\Desktop\QBSIssueTracker\QBS Issue Tracker\QBS Issue Tracker\QBS Issue Tracker.Android\obj\Debug\90\flata\28b184cab9be1a25704a531293e35eee39eec48a.stamp
+C:\Users\Ashot Ikilikyan\Desktop\QBSIssueTracker\QBS Issue Tracker\QBS Issue Tracker\QBS Issue Tracker.Android\obj\Debug\90\flata\cf96804441384eb32d889eb19b10afc191951b72.stamp
+C:\Users\Ashot Ikilikyan\Desktop\QBSIssueTracker\QBS Issue Tracker\QBS Issue Tracker\QBS Issue Tracker.Android\obj\Debug\90\flata\e9e30ac9f72cb76c9256c77d3a75b3dc9954a32b.stamp
+C:\Users\Ashot Ikilikyan\Desktop\QBSIssueTracker\QBS Issue Tracker\QBS Issue Tracker\QBS Issue Tracker.Android\obj\Debug\90\flata\878ede9ed6e3fdc85cf6b577fb029ca8390366bf.stamp
+C:\Users\Ashot Ikilikyan\Desktop\QBSIssueTracker\QBS Issue Tracker\QBS Issue Tracker\QBS Issue Tracker.Android\obj\Debug\90\flata\4985060697a326fe74c2d65f2b19212b309d5752.flata
+C:\Users\Ashot Ikilikyan\Desktop\QBSIssueTracker\QBS Issue Tracker\QBS Issue Tracker\QBS Issue Tracker.Android\obj\Debug\90\flata\2a05049bfdc594da04de7f6230e81d78f23ec9a1.flata
+C:\Users\Ashot Ikilikyan\Desktop\QBSIssueTracker\QBS Issue Tracker\QBS Issue Tracker\QBS Issue Tracker.Android\obj\Debug\90\flata\67fbbcb54867d9a042c924dd8b07b8978338ce14.flata
+C:\Users\Ashot Ikilikyan\Desktop\QBSIssueTracker\QBS Issue Tracker\QBS Issue Tracker\QBS Issue Tracker.Android\obj\Debug\90\flata\c04a0a18302070ca564e1cc88b2ec52c6afd38e5.flata
+C:\Users\Ashot Ikilikyan\Desktop\QBSIssueTracker\QBS Issue Tracker\QBS Issue Tracker\QBS Issue Tracker.Android\obj\Debug\90\flata\3ce6304278ff31d2accf1ae2e7b7c2c981617d7c.flata
+C:\Users\Ashot Ikilikyan\Desktop\QBSIssueTracker\QBS Issue Tracker\QBS Issue Tracker\QBS Issue Tracker.Android\obj\Debug\90\flata\c9b2e99827f64c5099c7654b593b06f7c583051a.flata
+C:\Users\Ashot Ikilikyan\Desktop\QBSIssueTracker\QBS Issue Tracker\QBS Issue Tracker\QBS Issue Tracker.Android\obj\Debug\90\flata\829383b38d5ed4d4c91b0f45597a151b5327151b.flata
+C:\Users\Ashot Ikilikyan\Desktop\QBSIssueTracker\QBS Issue Tracker\QBS Issue Tracker\QBS Issue Tracker.Android\obj\Debug\90\flata\cb3188106b7170568973b154fd1ba05d8fb6e387.flata
+C:\Users\Ashot Ikilikyan\Desktop\QBSIssueTracker\QBS Issue Tracker\QBS Issue Tracker\QBS Issue Tracker.Android\obj\Debug\90\flata\28b184cab9be1a25704a531293e35eee39eec48a.flata
+C:\Users\Ashot Ikilikyan\Desktop\QBSIssueTracker\QBS Issue Tracker\QBS Issue Tracker\QBS Issue Tracker.Android\obj\Debug\90\flata\cf96804441384eb32d889eb19b10afc191951b72.flata
+C:\Users\Ashot Ikilikyan\Desktop\QBSIssueTracker\QBS Issue Tracker\QBS Issue Tracker\QBS Issue Tracker.Android\obj\Debug\90\flata\e9e30ac9f72cb76c9256c77d3a75b3dc9954a32b.flata
+C:\Users\Ashot Ikilikyan\Desktop\QBSIssueTracker\QBS Issue Tracker\QBS Issue Tracker\QBS Issue Tracker.Android\obj\Debug\90\flata\878ede9ed6e3fdc85cf6b577fb029ca8390366bf.flata
+C:\Users\Ashot Ikilikyan\Desktop\QBSIssueTracker\QBS Issue Tracker\QBS Issue Tracker\QBS Issue Tracker.Android\obj\Debug\90\flata\compiled.flata
+C:\Users\Ashot Ikilikyan\Desktop\QBSIssueTracker\QBS Issue Tracker\QBS Issue Tracker\QBS Issue Tracker.Android\obj\Debug\90\R.txt
+C:\Users\Ashot Ikilikyan\Desktop\QBSIssueTracker\QBS Issue Tracker\QBS Issue Tracker\QBS Issue Tracker.Android\obj\Debug\90\R.cs.flag
+C:\Users\Ashot Ikilikyan\Desktop\QBSIssueTracker\QBS Issue Tracker\QBS Issue Tracker\QBS Issue Tracker.Android\obj\Debug\90\QBS Issue Tracker.Android.csproj.CoreCompileInputs.cache

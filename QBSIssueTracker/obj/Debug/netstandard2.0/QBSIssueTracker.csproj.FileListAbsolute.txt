@@ -1,0 +1,12 @@
+C:\Users\Ashot Ikilikyan\Desktop\QBSIssueTracker\QBSIssueTracker\QBSIssueTracker\bin\Debug\netstandard2.0\QBSIssueTracker.deps.json
+C:\Users\Ashot Ikilikyan\Desktop\QBSIssueTracker\QBSIssueTracker\QBSIssueTracker\bin\Debug\netstandard2.0\QBSIssueTracker.dll
+C:\Users\Ashot Ikilikyan\Desktop\QBSIssueTracker\QBSIssueTracker\QBSIssueTracker\bin\Debug\netstandard2.0\QBSIssueTracker.pdb
+C:\Users\Ashot Ikilikyan\Desktop\QBSIssueTracker\QBSIssueTracker\QBSIssueTracker\obj\Debug\netstandard2.0\QBSIssueTracker.csprojAssemblyReference.cache
+C:\Users\Ashot Ikilikyan\Desktop\QBSIssueTracker\QBSIssueTracker\QBSIssueTracker\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Ashot Ikilikyan\Desktop\QBSIssueTracker\QBSIssueTracker\QBSIssueTracker\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Ashot Ikilikyan\Desktop\QBSIssueTracker\QBSIssueTracker\QBSIssueTracker\obj\Debug\netstandard2.0\QBSIssueTracker.csproj.CoreCompileInputs.cache
+C:\Users\Ashot Ikilikyan\Desktop\QBSIssueTracker\QBSIssueTracker\QBSIssueTracker\obj\Debug\netstandard2.0\QBSIssueTracker.AssemblyInfoInputs.cache
+C:\Users\Ashot Ikilikyan\Desktop\QBSIssueTracker\QBSIssueTracker\QBSIssueTracker\obj\Debug\netstandard2.0\QBSIssueTracker.AssemblyInfo.cs
+C:\Users\Ashot Ikilikyan\Desktop\QBSIssueTracker\QBSIssueTracker\QBSIssueTracker\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Ashot Ikilikyan\Desktop\QBSIssueTracker\QBSIssueTracker\QBSIssueTracker\obj\Debug\netstandard2.0\QBSIssueTracker.dll
+C:\Users\Ashot Ikilikyan\Desktop\QBSIssueTracker\QBSIssueTracker\QBSIssueTracker\obj\Debug\netstandard2.0\QBSIssueTracker.pdb
